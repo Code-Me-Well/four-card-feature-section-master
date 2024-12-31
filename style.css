@@ -6,12 +6,15 @@
     box-sizing: border-box;
 }
 
+body{
+    background: hsl(0, 0%, 98%);
+}
+
 main {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: hsl(0, 0%, 98%);
 }
 
 .container {
